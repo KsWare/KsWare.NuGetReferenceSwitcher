@@ -8,13 +8,10 @@
 
 /build/Output
 
-/src/.vs
-/src/NuGetReferenceSwitcher.sln.ide
-/src/NuGetReferenceSwitcher.sln.GhostDoc.xml
-/src/UpgradeLog.htm
-/src/NuGetReferenceSwitcher.VS14.sln.ide
-/src/UpgradeLog2.htm
-/src/NuGetReferenceSwitcher.VS12.sln.GhostDoc.xml
-/src/NuGetReferenceSwitcher.VS13.sln.GhostDoc.xml
-/src/NuGetReferenceSwitcher.VS14.sln.GhostDoc.xml
+
+**.sln.ide
+**.sln.GhostDoc.xml
+/src/UpgradeLog*.htm
 /src/NuGetReferenceSwitcher.VS12old
+**/_ReSharper.Caches
+**/.vs
