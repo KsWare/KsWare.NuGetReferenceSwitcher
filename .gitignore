@@ -18,3 +18,5 @@
 /src/NuGetReferenceSwitcher.VS13.sln.GhostDoc.xml
 /src/NuGetReferenceSwitcher.VS14.sln.GhostDoc.xml
 /src/NuGetReferenceSwitcher.VS12old
+**/_ReSharper.Caches
+**/.vs
