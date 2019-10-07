@@ -1,5 +1,13 @@
 # NuGet Reference Switcher
 
+This is a fork of:
+- [RicoSuter/NuGetReferenceSwitcher](https://github.com/RicoSuter/NuGetReferenceSwitcher) (Original)
+- [lucasrossoni/NuGetReferenceSwitcher](https://github.com/lucasrossoni/NuGetReferenceSwitcher) (merge from UpgradeToVS2019)
+
+Binary [download](https://github.com/KsWare/KsWare.NuGetReferenceSwitcher/releases/download/v1.9/VS19.zip) for VS2019 published.
+
+---
+
 NuGet Reference Switcher is a Visual Studio extension which automatically switches NuGet assembly references to project references and vice-versa. This is useful when developing applications which reference own NuGet packages: When developing an application, switch to project references so that all code is editable and debuggable. After finishing the development, create new NuGet package versions, switch back to NuGet references and upgrade to the new NuGet versions. 
 
 ### **[For .NET Core and Standard projects, check out DNT (DotNetTools)](https://github.com/RSuter/DNT)**
@@ -20,6 +28,7 @@ Features:
 * [Download for Visual Studio 2013](https://visualstudiogallery.msdn.microsoft.com/68878c27-110c-43ec-ae61-3ea3f7aae88c)
 * [Download for Visual Studio 2015](https://visualstudiogallery.msdn.microsoft.com/e2458c0b-03c0-47a9-a94b-0d28567e0a84)
 * [Download for Visual Studio 2017](https://marketplace.visualstudio.com/vsgallery/ef35a0f9-2712-4634-97e0-51c03f4be1e3)
+* [Download for Visual Studio 2019](https://github.com/KsWare/KsWare.NuGetReferenceSwitcher/releases/download/v1.9/VS19.zip)
 
 The NuGet Reference Switcher extension is developed by [Rico Suter](http://rsuter.com) using the [MyToolkit](http://mytoolkit.io) library. 
 
